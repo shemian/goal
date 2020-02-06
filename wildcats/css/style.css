@@ -1,0 +1,8 @@
+.important{
+    color: brown;
+    font-style: oblique;
+}
+.unimportant{
+    color: red;
+    font-style: italic;
+}
