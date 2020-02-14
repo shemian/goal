@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: rgb(18, 19, 18);
+}
+body{
+    background-color: whitesmoke;
+}
+.text-box {
+    border-left: 10px solid blue  ;
+    border-right: 10px solid blue ;
+    border-top: 10px solid blue ;
+    border-bottom: 10px solid blue;
+    width: 450px;                                                                   
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+}
+
+.unimportant {
+    color: red;
+}
+.any{
+    color:black;
+    background-color: khaki;
+}
+.lane{
+    text-decoration: underline;
+    text-decoration: black;
+    font-style: inherit;
+}
